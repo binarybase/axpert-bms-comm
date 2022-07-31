@@ -1,0 +1,43 @@
+Request: 01 03 00 70 00 01 85 d1  (p??)
+protocol: parse: 01 03 00 70
+protocol: Respond to address: 70 (00 70)
+Response: 01 03 00 01 02 44 15 59 
+bridge: sending command , cmd len: 8
+bridge: start reading.timeout| complete
+Request: 01 03 00 71 00 01 d4 11  (q?)
+protocol: parse: 01 03 00 71
+protocol: Respond to address: 71 (00 71)
+Response: 01 03 00 01 01 c2 94 0b 
+bridge: sending command , cmd len: 8
+bridge: start reading.timeout| complete
+Request: 01 03 00 72 00 01 24 11  (r$)
+protocol: parse: 01 03 00 72
+protocol: Respond to address: 72 (00 72)
+Response: 01 03 00 01 03 20 15 22 
+bridge: sending command , cmd len: 8
+bridge: start reading.timeout| complete
+Request: 01 03 00 73 00 01 75 d1  (su?)
+protocol: parse: 01 03 00 73
+protocol: Respond to address: 73 (00 73)
+Response: 01 03 00 01 03 20 15 22 
+bridge: sending command , cmd len: 8
+bridge: start reading.timeout| complete
+Request: 01 03 00 34 00 02 85 c5  (4??)
+protocol: parse: 01 03 00 34
+protocol: Respond to address: 34 (00 34)
+Response: 01 03 00 02 00 00 0a be 4d d7 
+bridge: sending command 
+, cmd len: 10
+bridge: start reading.timeout| complete
+Request: 01 03 00 74 00 01 c4 10  (t?)
+protocol: parse: 01 03 00 74
+protocol: Respond to address: 74 (00 74)
+Response: 01 03 00 01 00 c0 14 5a 
+bridge: sending command , cmd len: 8
+bridge: start reading.timeout| complete
+Request: 01 03 00 33 00 01 74 05  (3t)
+protocol: parse: 01 03 00 33
+protocol: Respond to address: 33 (00 33)
+Response: 01 03 00 01 00 3d d5 db 
+bridge: sending command , cmd len: 8
+bridge: start reading.timeout| complete
